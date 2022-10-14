@@ -12,7 +12,7 @@ lim x → 2; 5x^2+3x + 1
 
 All polynomial limits can be evaluated by direct substiution 
 
-
+---
 
 
 #### Factorization
@@ -40,6 +40,8 @@ lim x → 1
 $$
 (x^2+x+1)= 3
 $$
+---
+
 #### Rationalization
 ---
 In this method, the rationalization of an indeterminate expression leads to determinate one. The following examples elaborate this method.
@@ -72,7 +74,7 @@ $$
 $$
 Please reference this video:
 https://www.youtube.com/watch?v=ZgpSWq1Tyug
-
+---
 
 #### Reduction to Standard Forms
 --- 
@@ -84,3 +86,5 @@ $$
 (1+sinx)^{2cotx}=(1+sinx)^\frac{1}{sinx}=e^{2}
 $$
 cos x → 1 as x → 0
+
+---

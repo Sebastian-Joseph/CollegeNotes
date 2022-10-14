@@ -16,6 +16,8 @@ Another example is f(x)=8. With this equation it means y = 8 and the slope is 0.
 
 If you see d/dx it means you are about to differentiate something with respect to x. d/dx(f(x)) = f’(x) ← this is f prime of x
 
+---
+
 ## The Power Rule
 --- 
 
@@ -39,6 +41,8 @@ $$
 \frac{d}{dx}(x^{5})= 5 \times x^{5-1}= 5x^{4}
 $$
 
+---
+
 ## The Constant Multiple Rule
 ---
 This is the constant multiple rule in derivatives
@@ -55,6 +59,8 @@ $$
 $$
 \frac{d}{dx}[5x^{6}]=5\times \frac{d}{dx}[x^{6}]= 5 \times(6 \times x^{5})=30x^{5}
 $$
+
+---
 
 ## Definition of Derivatives 
 ---
@@ -102,6 +108,9 @@ This is how
 $$
 \frac{d}{dx}(x^{2)}=2x
 $$
+
+---
+
 ## Finding the slope at the tangent line 
 ---
 Example:
@@ -246,6 +255,8 @@ $$
 f'(x)=x^\frac{5}{3}=\frac{5x^{{\frac{2}{3}}}}{3}={\frac{5 \sqrt[3]{x^2}}{3}}
 $$
 
+---
+
 #### Derivatives of Trigonometric Functions
 ---
 Derivatives of Trig Function you **NEED** to know
@@ -269,7 +280,7 @@ $$
 $$
 
 
-
+---
 
 
 #### Product Rule
@@ -305,6 +316,8 @@ $$
 [12x^{3}\times x^{3}-5x]+[3x^{4}+7 \times 3x^{2}-5]
 $$
 
+---
+
 #### Quotient Rule
 ---
 $$
@@ -325,3 +338,5 @@ $$
 $$
 \frac{15x-35-15x-18}{(3x-7)(3x-7)}=\frac{-53}{(3x-7)^2}=\frac{-53}{9x^{2}+21x+21x+49}=\frac{-53}{9x^2+42x+49}
 $$
+
+---

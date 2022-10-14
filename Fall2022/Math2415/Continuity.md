@@ -1,5 +1,5 @@
-## Continuity 
----
+
+
 #### Types of Continunity Graphs
 
 What is continuity? Continuity is the unbroken and consistent existence or operation of something over a period of time. An example of this is a continuous function. 
@@ -17,6 +17,9 @@ This is an example of a infinity continuity:
 ![[Pasted image 20221012160755.png]]
 
 In a infinite continuity, the vertical asymptote is where there is a discontinuity. 
+
+--- 
+
 
 #### 3 Step Continuity Test
 ---
@@ -149,3 +152,6 @@ Since step 3 failed it means it is discontinuous at -1 but the limit does exist.
 Usually when step 2 fails, meaning the limits of both sides don’t match, it means that this is a jump continuity.
 
 When step 3 fails, meaning f(x) does not equal f(a) this makes it a whole discontinuity.
+
+--- 
+

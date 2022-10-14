@@ -1,5 +1,4 @@
-### Infinite Limits
----
+
 #### Infinite Limits Introduction
 ---
 For infinite limits you have to look at the limit from the left side and right side. Originial limit: lim x → 0
@@ -76,6 +75,8 @@ $$
 \frac{-8}{x-2}=\frac{-8}{2+-2}=\frac{-8}{0+}=-8\times \infty= -\infty
 $$
 
+---
+
 
 #### Trigonometric Function
 ---
@@ -103,6 +104,8 @@ Note:
 $$
 tanx = \frac{sinx}{cosx}
 $$
+---
+
 #### Vertical Asymptote
 ---
 
@@ -124,3 +127,4 @@ $$
 The vertical asymptotes of this is $$
 x = -2, 2
 $$
+---

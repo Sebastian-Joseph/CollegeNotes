@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math2415/Derivatives.md",
+                "file": "Math2415/Limits at Infinity.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math2415/Derivatives.md",
+                "file": "Math2415/Limits at Infinity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math2415/Derivatives.md",
+                "file": "Math2415/Limits at Infinity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math2415/Derivatives.md"
+                "file": "Math2415/Limits at Infinity.md"
               }
             }
           }
@@ -139,13 +139,13 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d76459bdeccde981",
+  "active": "7da985f555fe1f3f",
   "lastOpenFiles": [
+    "Math2415/Limits.md",
+    "Math2415/Infinite Limits.md",
+    "Math2415/Derivatives.md",
     "Math2415/Continuity.md",
     "Math2415/Limits at Infinity.md",
-    "Math2415/Infinite Limits.md",
-    "Math2415/Limits.md",
-    "Math2415/Derivatives.md",
     "Math2415/Pasted image 20221012154923.png"
   ]
 }
